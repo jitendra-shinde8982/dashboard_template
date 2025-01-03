@@ -40519,4 +40519,8 @@ html:not(.navbar-vertical-collapsed) .navbar-vertical .firefox .chat-sidebar .na
   }
 }
   
-  
+  @media (max-width: 600px) {
+  .showresp{
+      display: block !important;
+  }
+}
